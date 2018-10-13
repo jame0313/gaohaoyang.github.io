@@ -21,7 +21,7 @@ type: page
 * email：jame0313@naver.com
 * [Baekjoon](https://www.acmicpc.net/user/jame0313)
 
-## Site info
+## Site Info
 
 백준 꿀문제나 삽질 솔루션을 올릴까 합니다.
 
@@ -31,7 +31,7 @@ type: page
 
 *fork 후 정보 수정 및 한국어로 번역
 
-## Friends
+## Friends Link
 
 [전현승](http://dogdriip.tistory.com/) \|
 
