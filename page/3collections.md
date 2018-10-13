@@ -9,43 +9,36 @@ type: page
 * content
 {:toc}
 
-## 工具
+## 도구
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
-    生成 box-shadow 的工具。
+    box-shadow를 만들어 줍니다.
 
 * [gradient-generator](http://www.cssmatic.com/gradient-generator)
 
-    渐变生成器。
+    그라데이션을 만들어 줍니다.
 
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-    也是渐变生成器
+    그라데이션을 만들어 줍니다.
 
 * [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
 
-    CSS3 生成器
+    CSS3을 만들어 줍니다.
 
 - [tiny png](https://tinypng.com/)
 
-    用于压缩 png 或 jpg 的在线工具
+    png 또는 jpg 압축 온라인 툴
 
-* [图床 https://sm.ms/](https://sm.ms/)
-
-    有 API 可用。
 
 * [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
 
-* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
-
-- [在线正则表达式匹配](https://regex101.com/)
-    - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
+- [온라인 정규표현식 매칭](https://regex101.com/)
 - [http://regexr.com/](http://regexr.com/)
 - [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
 
-## 编程语言
+## 프로그래밍 언어
 
 ### JavaScript
 
@@ -88,7 +81,7 @@ type: page
 
 * [七天学会NodeJS -Nanqiao Deng](https://nqdeng.github.io/7-days-nodejs)
 
-## 框架&脚手架
+## 프레임 & 스케폴딩
 
 ### webpack
 
@@ -138,23 +131,23 @@ type: page
 
     类似 w3school 的入门 AngularJS 教程。
 
-### 测试
+### 테스트
 
 * [测试框架 Mocha 实例教程 阮一峰](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
 
-## 类库与插件
+## 클래스 라이브러리 및 플러그인
 
 * [Masonry](http://masonry.desandro.com/)
 
-    瀑布流布局库。
+    Waterfall flow layout library.
 
 * [jssor](http://www.jssor.com/)
 
-    图片轮播图其 GitHub 地址 [jssor/slider](https://github.com/jssor/slider)
+   Image carousel with its GitHub address [jssor/slider](https://github.com/jssor/slider)
 
 * [cssslider](http://cssslider.com/)
 
-    纯 CSS 的图片轮播图。
+    Pure CSS picture carousel
 
 - [gumshoe](https://github.com/cferdinandi/gumshoe)
 
@@ -164,7 +157,7 @@ type: page
 
   A simple vanilla JS script to animate scrolling to anchor links.
 
-## 模块化
+## 모듈
 
 * [后端程序员的 JavaScript 之旅 - 模块化（一）](http://lishaopeng.com/2016/02/05/js-module/)
 * [后端程序员的 JavaScript 之旅 - 模块化（二）](http://lishaopeng.com/2016/02/11/js-module2/)
@@ -178,9 +171,9 @@ type: page
 * [将footer固定在页面底部的实现方法](https://segmentfault.com/a/1190000004453249)
 - [HTML5 视频 By Pete LePage](https://www.html5rocks.com/zh/tutorials/video/basics/)
 
-## 编辑器
+## 에디터
 
-### Atom 中常用插件
+### Atom commin plugin
 
 * auto-beautify
 * autoprefixer
@@ -207,13 +200,13 @@ type: page
 * autocomplete-paths 自动补充路径
 * symbols-tree-view A symbol treeview like taglist
 
-常用的主题：
+Common theme：
 
 UI Theme: One Dark
 
 Syntax Theme: Atom Dark or One Dark
 
-## GitBook 及其插件
+## GitBook & plugin
 
 * [Gitbook 的使用和常用插件 -赵达](http://zhaoda.net/2015/11/09/gitbook-plugins/)
 * [gitbook-plugin-expandable-chapters](https://plugins.gitbook.com/plugin/expandable-chapters)
@@ -222,7 +215,7 @@ Syntax Theme: Atom Dark or One Dark
 
     <!-- ![](http://ww4.sinaimg.cn/large/7011d6cfjw1f08kmplbj1j20gn05l0tk.jpg) -->
 
-## Chrome 插件
+## Chrome plugin
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 
     - Code tree for GitHub and GitLab
@@ -272,7 +265,7 @@ Syntax Theme: Atom Dark or One Dark
 
 * [JS前端开发群月报 -豪情等人维护](http://www.kancloud.cn/jsfront/month/82796)
 
-## 交互设计相关
+## Interaction design related
 
 - [Framer](https://framerjs.com/)
 
