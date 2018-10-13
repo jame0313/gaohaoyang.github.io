@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "test posting"
+date:   2018-10-14 01:03:50 +0900
+categories: jekyll
+tags: jekyll
+author: jame0313
+---
+
+* content
+{:toc}
+
 로렘 임숨
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nisi ac mauris iaculis mollis suscipit eu nisi. Vivamus non lobortis massa, a dapibus augue. Vestibulum lorem diam, convallis in aliquet id, efficitur et felis. In aliquam justo est, sit amet laoreet sem feugiat vitae. Morbi viverra condimentum tincidunt. Ut at ipsum vitae orci tincidunt ullamcorper. Nullam maximus ultrices rutrum. Etiam lorem enim, sodales ac nibh at, malesuada sagittis odio. Donec et enim a mauris tempus ultricies. Ut pulvinar lectus in lorem iaculis consectetur.
 
