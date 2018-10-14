@@ -23,14 +23,14 @@ tags: git github
 
 `git push --mirror : to push everything`
 
-```
-git clone --mirror https://bitbucket.org/exampleuser/repository-to-mirror.git //원본 git clone
+```bash
+git clone --mirror https://bitbucket.org/exampleuser/repository-to-mirror.git #원본 git clone
 
-cd repository-to-mirror.git //clone한 git 경로 지정
+cd repository-to-mirror.git #clone한 git 경로 지정
 
-git remote set-url --push origin https://github.com/exampleuser/mirrored //붙여넣을 git 경로 지정
+git remote set-url --push origin https://github.com/exampleuser/mirrored #붙여넣을 git 경로 지정
 
-git push --mirror //git push
+git push --mirror #git push
 ```
 
 출처: [GOOD to GREAT](http://goodtogreate.tistory.com/entry/%EC%A0%80%EC%9E%A5%EC%86%8C-%ED%86%B5%EC%B1%84%EB%A1%9C-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0-bitbucket-to-github)
