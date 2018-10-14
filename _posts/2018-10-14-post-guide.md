@@ -36,5 +36,9 @@ mathjax: true or false //수식 쓰면 true 적으면 된다.
 # jekyll 문법
 ---
 `kramdown`이다.
+
+
 [kramdown](https://kramdown.gettalong.org/index.html)
+
+
 이후에 문법 정리한 거 가져올 것이다.
