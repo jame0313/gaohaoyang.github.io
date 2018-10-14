@@ -11,7 +11,7 @@ mathjax: true
 {:toc}
 
 
-#헤더 양식
+# 헤더 양식
 ---
 ```
 ---
@@ -25,7 +25,7 @@ mathjax: true or false //수식 쓰면 true 적으면 된다.
 ---
 ```
 
-#뒤에 써야할 것
+# 뒤에 써야할 것
 ---
 ```
 * content
@@ -33,8 +33,8 @@ mathjax: true or false //수식 쓰면 true 적으면 된다.
 ```
 헤더와 내용을 나눔을 명시하는 듯하다.
 
-#jekyll 문법
+# jekyll 문법
 ---
 `kramdown`이다.
-[kramdown]:https://kramdown.gettalong.org/index.html
+[kramdown]: https://kramdown.gettalong.org/index.html
 이후에 문법 정리한 거 가져올 것이다.
