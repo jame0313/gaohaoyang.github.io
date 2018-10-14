@@ -9,13 +9,18 @@ tags: git github
 * content
 {:toc}
 
- 학교 수업에서 gitlab 서버를 이용해서 과제를 관리한다. 지금까지 올린 gitlab의 git을 github에 그대로 옮기려 한다. 직접 옮기기에는 너무 무식해보여서 일괄적으로 옮긴 방법을 찾아보았다.
+ 학교 수업에서 gitlab 서버를 이용해서 과제를 관리한다.
+
+ 지금까지 올린 gitlab의 git을 github에 그대로 옮기려 한다.
+
+ 직접 옮기기에는 너무 무식해보여서 일괄적으로 옮긴 방법을 찾아보았다.
 
 ---
 # git bash 이용
 ---
 
 `git clone --mirror : to clone every references(commit, tags, branches)`
+
 `git push --mirror : to push everything`
 
 ```
