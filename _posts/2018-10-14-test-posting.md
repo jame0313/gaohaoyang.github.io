@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "test posting"
-date:   2018-10-14 01:03:50 +0900
+date:   2018-10-14 01:03:50
 categories: jekyll
 tags: jekyll
 author: jame0313
