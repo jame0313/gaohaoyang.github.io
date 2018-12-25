@@ -7,8 +7,7 @@ tags: jekyll
 mathjax: true
 ---
 
-* content
-{:toc}
+
 
 # 헤더 양식
 ---
