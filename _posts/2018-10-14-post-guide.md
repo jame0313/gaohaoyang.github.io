@@ -6,7 +6,6 @@ categories: jekyll
 tags: jekyll
 mathjax: true
 ---
-* conten
 {:toc}
 # 헤더 양식
 ---
