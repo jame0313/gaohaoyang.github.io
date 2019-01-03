@@ -6,7 +6,7 @@ categories: jekyll
 tags: jekyll
 mathjax: true
 ---
-* helloworld
+* content
 {:toc}
 # 헤더 양식
 ---
@@ -28,7 +28,11 @@ mathjax: true or false //수식 쓰면 true 적으면 된다.
 * content
 {:toc}
 ```
-헤더와 내용을 나눔을 명시하는 듯하다.
+내가 fork한 블로그에서 만든 기능 중에 우측 메뉴가 있다.  
+보면 "헤더 양식"부터 여러 링크가 있는 것을 볼 수 있다.  
+그 메뉴에 이 글의 헤더 목록을 추가할지의 여부를 toc attribute의 유무로 따진다.  
+그래서 임시 list 요소 하나 넣고 거기에 toc attribute를 붙인다.  
+요소 text가 content가 아니여도 된다.
 
 # jekyll 문법
 ---
